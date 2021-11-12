@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "native-albatech",
+    "slug": "native-albatech",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "native-albatech"
+}
